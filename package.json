@@ -1,15 +1,16 @@
 {
-  "name": "nirob-api",
+  "name": "ＮＩＲＯＢ ᶻ 𝗓 𐰁",
   "version": "1.0.0",
-  "description": "Express API project",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.7.0",
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "dotenv": "^16.3.1"
+    "fs-extra": "^11.1.1"
   }
 }
