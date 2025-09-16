@@ -1,8 +1,8 @@
 {
   "name": "ＮＩＲＯＢ ᶻ 𝗓 𐰁",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
-  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
